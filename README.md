@@ -1,27 +1,15 @@
-# GiorgiFord
+# 🚗 Ford Landing Page Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+Bienvenido al **Clon de la Landing Page de Ford**, un proyecto desarrollado con **Angular 18**. El objetivo es replicar el diseño moderno y atractivo del sitio web oficial de Ford, aprovechando las potentes herramientas de Angular para ofrecer una experiencia fluida y dinámica. 
 
-## Development server
+## 🚀 Tecnologías Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este proyecto utiliza las siguientes tecnologías:
 
-## Code scaffolding
+- **🌐 Angular 18**: Framework frontend para crear aplicaciones web interactivas y dinámicas.
+- **💻 TypeScript**: Superset de JavaScript que añade tipos estáticos y mejora el desarrollo.
+- **📄 HTML5**: Marcado estructural para la página web.
+- **🎨 CSS3 / SCSS**: Estilos avanzados y diseño responsivo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+¡Explora el proyecto y descubre cómo Angular puede darle vida a un diseño web moderno y funcional!
